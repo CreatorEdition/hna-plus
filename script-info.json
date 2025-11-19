@@ -1,0 +1,23 @@
+{
+    "version": "0.1.0",
+    "changelog": [
+        "新增：支持多城市联程环线规划",
+        "优化：搜索性能提升 50%",
+        "修复：省份查询结果显示问题"
+    ],
+    "downloadUrls": "https://update.itrip.cc/hna-plus/script.user.js",
+    "downloadUrl-greasyfork": "https://greasyfork.org/scripts/your-script-id",
+    "releaseDate": "2025-01-15",
+    "minVersion": "0.1.0",
+    "critical": false,
+    "announcement": {
+        "id": "web-app-launch-2025",
+        "show": false,
+        "icon": "🚀",
+        "title": "网页版正式上线！",
+        "content": "无需安装脚本，直接在浏览器中使用完整功能。支持保存常用路线、价格提醒等高级功能。",
+        "imageUrl": "https://your-domain.com/images/web-app-banner.jpg",
+        "actionUrl": "https://flights.your-domain.com",
+        "actionText": "立即体验"
+    }
+}
